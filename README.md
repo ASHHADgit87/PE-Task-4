@@ -36,7 +36,7 @@ It should display player stats, allow score interaction, and be visually polishe
 
 ## 🚀 Getting Started
 
-https://pe-task4-yourlink.vercel.app/
+https://game-dashboard-dummy.justcopy.link
 
 ---
 
