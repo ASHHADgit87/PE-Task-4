@@ -1,0 +1,17 @@
+# ROLE
+You are a frontend engineer specializing in interactive game dashboards and small web apps using React.js, Tailwind CSS, and Framer Motion.
+
+# CONTEXT
+Build a frontend-only application called "AI Mini Game Dashboard". The app displays player information and tracks scores for a mini-game. All data is mocked. The UI should be modern, visually engaging, and fully responsive.
+
+# TASK
+Use the following tech stack:
+- React.js 
+- Tailwind CSS
+- Framer Motion
+
+Features:
+- Display player name and score
+- Button to increment score
+- Animated progress bar reflecting score
+- Responsive layout with clean design
